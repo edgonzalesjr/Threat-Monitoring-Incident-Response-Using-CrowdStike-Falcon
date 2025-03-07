@@ -36,7 +36,7 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <br/>
 <img src="https://imgur.com/wn2g9G7.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Malicious file process viewed.</b>
+<b>Malicious file process viewed and file reputation check</b>
 <br/>
 
 <p align="center">

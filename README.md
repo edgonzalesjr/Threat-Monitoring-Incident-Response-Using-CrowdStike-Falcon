@@ -24,16 +24,30 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <br/>
 <img src="https://imgur.com/aHmcK9r.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
-<br/>
 <b>Detected the malicious activity.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Malicious .exe file process viewed.</b>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Malicious file process viewed.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b></b>
+<br/>
+
+
 
 
 

@@ -6,33 +6,30 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 
 ## Practical Exercises
 
+- Malware Detection
+<p align="center">
+<img src="https://imgur.com/BLC8kPL.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Download of malicious file in the victim's machine.</b>
+<br/>
+
 <p align="center">
 <img src="https://imgur.com/XgAgPhx.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Login to CrowdStrike Falcon website.</b>
 <br/>
 
-- Powershell Detection
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Execution of PowerShell script in the victim's machine.</b>
+<b>Detected the malicious activity.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Connected to Attacker's Command and Control Server.</b>
+<b>Malicious .exe file process viewed.</b>
 <br/>
 
-<p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<b>Detected the malicious PowerShell activity.</b>
-<br/>
 
-<p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<b>Malicious PowerShell process viewed.</b>
-<br/>
+

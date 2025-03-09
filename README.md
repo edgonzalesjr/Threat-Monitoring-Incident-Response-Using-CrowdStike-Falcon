@@ -130,3 +130,12 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <b>Putting back the machine to the network.</b>
 <br/>
 
+- Endpoint Detections
+<p align="center">
+<img src="https://imgur.com/EIk6TYc.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/G3OZ1Xx.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+

@@ -78,11 +78,9 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <p align="center">
 <img src="https://imgur.com/35rIWJV.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/k9EPLfh.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/0J2hO5M.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Assign incident and start triaging.</b>
 <br/>

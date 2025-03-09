@@ -93,7 +93,11 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <br/>
 <img src="https://imgur.com/CphnN4n.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/vJqKwVG.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/nO7Ywom.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/pkOKTET.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Isolate the victim's machine to the network to avoid further damage.</b>
 <br/>

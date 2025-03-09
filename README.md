@@ -51,7 +51,15 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <br/>
 <img src="https://imgur.com/LXmyCHE.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Assign incident and start triaging.</b>
+<b>Edit the status and start triaging.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/3hjwZEP.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/sD76M0J.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Document the case and update the status.</b>
 <br/>
 
 - Powershell Detection

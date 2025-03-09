@@ -75,7 +75,21 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Malicious PowerShell process viewed and file reputation check.</b>
 <br/>
 
 <p align="center">

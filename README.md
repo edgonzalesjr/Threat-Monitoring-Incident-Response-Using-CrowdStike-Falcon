@@ -5,7 +5,6 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 
 
 ## Practical Exercises
-
 - Malware Detection
 <p align="center">
 <img src="https://imgur.com/BLC8kPL.png" height="90%" width="90%" alt="Device Specification"/>
@@ -76,8 +75,6 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <img src="https://imgur.com/5xwjC5l.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <img src="https://imgur.com/bCJjgXH.png" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<img src="https://imgur.com/lrAlIlM.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>

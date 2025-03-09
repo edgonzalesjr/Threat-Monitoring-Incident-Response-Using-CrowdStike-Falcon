@@ -55,7 +55,32 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <b>Assign incident and start triaging.</b>
 <br/>
 
+- Powershell Detection
+<p align="center">
+<img src="https://imgur.com/vldzmkn.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/hNVXzAA.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Execution of Powershell in the victim's machine.</b>
+<br/>
 
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Detected the malicious Powershell activity.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
 
 
 

@@ -89,9 +89,9 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <p align="center">
 <img src="https://imgur.com/jpk4AnO.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/Kt0UTqq.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/CphnN4n.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>

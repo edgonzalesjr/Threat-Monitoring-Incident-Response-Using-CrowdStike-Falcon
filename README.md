@@ -58,15 +58,11 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <p align="center">
 <img src="https://imgur.com/vldzmkn.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/hNVXzAA.png" height="90%" width="90%" alt="Device Specification"/>
-<br/>
 <b>Execution of Powershell in the victim's machine.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/4AjN1am.png" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<img src="https://imgur.com/YW9Arqo.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Detected the malicious Powershell activity.</b>
 <br/>
@@ -75,10 +71,6 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <img src="https://imgur.com/5xwjC5l.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <img src="https://imgur.com/bCJjgXH.png" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<img src="https://imgur.com/mCWp35Y.png" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<img src="https://imgur.com/901AXRK.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Malicious PowerShell process viewed.</b>
 <br/>

@@ -164,7 +164,7 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
   - Enhanced team collaboration by updating detection statuses and adding comments, ensuring continuity and transparency in the investigation process to avoid missing any details.
 
 ## Acknowledgements
-This project combines ideas and methods from various sources, such as the CrowdStrike Falcon youtube videos and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
+This project combines ideas and methods from various sources, such as the CrowdStrike Falcon Youtube videos and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [CrowdStrike](https://www.youtube.com/@CrowdStrike)
  - [Whois Domain Tools](https://whois.domaintools.com/)
  - [VirusTotal](https://www.virustotal.com/gui/home/url)

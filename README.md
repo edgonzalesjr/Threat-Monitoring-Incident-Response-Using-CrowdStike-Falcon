@@ -164,9 +164,9 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
   - Enhanced team collaboration by updating detection statuses and adding comments, ensuring continuity and transparency in the investigation process to avoid missing any details.
 
 ## Acknowledgements
-This project combines ideas and methods from various sources, such as the CrowdStrike Falcon Youtube videos and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
+This project combines ideas and methods from various sources, such as the CrowdStrike Falcon Youtube videos and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses. 
+ - [CrowdStrike Falcon Eval](https://www.crowdstrike.com/en-us/products/trials/try-falcon-prevent/?utm_campaign=brand&utm_content=crwd-brand-apj-sea-en-psp-x-trl-x-tct-x_x_x_rlsa-x&utm_medium=sem&utm_source=goog&utm_term=crowdstrike%20falcon&cq_cmp=22070106885&cq_plac=&gad_source=1&gclid=Cj0KCQjwm7q-BhDRARIsACD6-fXfpSM1ZTm_7uJx4RKJy-H731QL8srSEPNcKL-ZZA3xf-DtMHbi6JsaApvvEALw_wcB)
  - [CrowdStrike Youtube videos](https://www.youtube.com/@CrowdStrike)
- - [CrowdStrike Falcon Eval]([https://www.youtube.com/@CrowdStrike](https://www.crowdstrike.com/en-us/products/trials/try-falcon-prevent/?utm_campaign=brand&utm_content=crwd-brand-apj-sea-en-psp-x-trl-x-tct-x_x_x_rlsa-x&utm_medium=sem&utm_source=goog&utm_term=crowdstrike%20falcon&cq_cmp=22070106885&cq_plac=&gad_source=1&gclid=Cj0KCQjwm7q-BhDRARIsACD6-fXfpSM1ZTm_7uJx4RKJy-H731QL8srSEPNcKL-ZZA3xf-DtMHbi6JsaApvvEALw_wcB))
  - [Whois Domain Tools](https://whois.domaintools.com/)
  - [VirusTotal](https://www.virustotal.com/gui/home/url)
  - [CyberChef](https://gchq.github.io/CyberChef/)

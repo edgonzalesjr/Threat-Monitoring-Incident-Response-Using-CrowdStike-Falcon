@@ -164,12 +164,12 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
   - Enhanced team collaboration by updating detection statuses and adding comments, ensuring continuity and transparency in the investigation process to avoid missing any details.
 
 ## Acknowledgements
-This project combines ideas and methods from various sources, such as the  and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
- - []()
- - [](https://whois.domaintools.com/)
- - [](https://www.virustotal.com/gui/home/url)
- - [](https://gchq.github.io/CyberChef/)
- - []()
+This project combines ideas and methods from various sources, such as the CrowdStrike Falcon youtube videos and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
+ - [CrowdStrike](https://www.youtube.com/@CrowdStrike)
+ - [Whois Domain Tools](https://whois.domaintools.com/)
+ - [VirusTotal](https://www.virustotal.com/gui/home/url)
+ - [CyberChef](https://gchq.github.io/CyberChef/)
+ - [Windows 10 Eval](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
 
 ## Disclaimer
 The sole goals of the projects and activities here are for education and ethical cybersecurity research. All work was conducted in controlled environments, such as paid cloud spaces, private labs, and online cybersecurity education platforms. Online learning and cloud tasks adhered closely to all usage guidelines. Never use these projects for improper or unlawful purposes. It is always prohibited to break into any computer system or network. Any misuse of the provided information or code is not the responsibility of the author or authors.

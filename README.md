@@ -155,6 +155,23 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 <b>.</b>
 <br/>
 
+- Fusion SOAR
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Create workflow.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
 ## Outcome
 - Effective Threat Identification and Prioritization
   - Developed the ability to quickly identify and prioritize cybersecurity threats, focusing on critical alerts first to address the most severe risks immediately.

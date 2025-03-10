@@ -157,20 +157,29 @@ To build hands-on skills and knowledge that will allow me to effectively analyze
 
 - Fusion SOAR
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/kl8QDhC.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/X9zYzEo.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Create workflow.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/zpd3nPe.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/DtwgvG8.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>Create alert.</b>
 <br/>
+
+<p align="center">
+<img src="https://imgur.com/nbtpIZy.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/eS0iEz9.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Execution Log.</b>
+<br/>
+
 
 ## Outcome
 - Effective Threat Identification and Prioritization

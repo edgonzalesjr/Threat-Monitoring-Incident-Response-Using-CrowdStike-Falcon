@@ -1,5 +1,5 @@
 ## Objective
-To build hands-on skills and knowledge that will allow me to effectively analyze and triage cybersecurity detections using various detection and response tools. This will include learning how to prioritize alerts, analyze command line behavior, group detections, and collaborate with the team on incident response efforts.
+To develop skills for analyzing and triaging cybersecurity detections using various response tools. This includes prioritizing alerts, analyzing command line behavior, grouping detections, and collaborating on incident response initiatives.
 
 ### Skills Learned
 - Detection Analysis
